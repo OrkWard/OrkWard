@@ -12,4 +12,4 @@ Web開発者に必要なスキル以外にも、技術的な話題に興味を�
 
 Welcome to take a look of my [dotfiles repo](https://github.com/OrkWard/dotfiles)! It's still faraway from perfect, but I feel at home each time entering my Terminal. Hope your dev environment are as familiar and confortable to you!  
 欢迎参观我的[环境仓库](https://github.com/OrkWard/dotfiles)！这是我的全部工作环境，虽然它距离让我满意还有很远很远的距离，但我每次进入终端，那种熟悉的感觉远比回到家时更好。我希望你的工作环境对你来说也像家一样熟悉和舒适！  
-私の[dotfilesリポジトリ](https://github.com/OrkWard/dotfiles)を見てください！まだ完璧からは程遠いですが、ターミナルに入るたびに家にいるような感覚があります。みなさんの開発環境も馴染み深く、快適であることを願っています！
+[dotfilesリポジトリ](https://github.com/OrkWard/dotfiles)を見てください！まだ完璧までは程遠いですが、ターミナルに入るたびにいつも家にいるような感じ。みなさんの開発環境も馴染み深く、快適であることを願っていますね。
